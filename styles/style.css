@@ -1,0 +1,16 @@
+.items{
+    background-color: lightblue;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 20px;
+}
+.items img{
+    width: 150px;
+}
+.products-container{
+    padding: 10px;
+    border: 1px solid gray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
